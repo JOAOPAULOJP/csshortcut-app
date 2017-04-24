@@ -4,6 +4,12 @@
 
 > Projeto descolado
 
+## Stack
+
+ - Task runner: [Gulp] (http://gulpjs.com/)
+ - HTML Template Engine [Pug] (https:pugjs.org/api/getting-started.html)
+ - CSS Preprocessor: [Stylus] (http://stylus-lang.com/)
+
 ## Versioning
 
 To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.

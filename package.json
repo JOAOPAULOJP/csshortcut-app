@@ -1,0 +1,25 @@
+{
+  "name": "fake-projet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JOAOPAULOJP/csshortcut-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JOAOPAULOJP/csshortcut-app/issues"
+  },
+  "homepage": "https://github.com/JOAOPAULOJP/csshortcut-app#readme",
+  "devDependencies": {
+    "gulp-stylus": "^2.6.0"
+  },
+  "dependencies": {
+    "gulp-stylus": "^2.6.0"
+  }
+}
