@@ -7,7 +7,7 @@
 ## Stack
 
  - Task runner: [Gulp] (http://gulpjs.com/)
- - HTML Template Engine [Pug] (https:pugjs.org/api/getting-started.html)
+ - HTML Template Engine [Pug] (https://pugjs.org/api/getting-started.html)
  - CSS Preprocessor: [Stylus] (http://stylus-lang.com/)
 
 ## Versioning
